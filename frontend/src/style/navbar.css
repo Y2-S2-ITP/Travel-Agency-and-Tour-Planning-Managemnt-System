@@ -1,0 +1,13 @@
+.navbar{
+
+    float: left;
+
+}
+.navbar > button:hover{
+    background-color: grey;
+}
+.navbar > button{
+    font-size: 18px;
+}
+
+

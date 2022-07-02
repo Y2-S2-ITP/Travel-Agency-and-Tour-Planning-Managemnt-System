@@ -1,0 +1,235 @@
+.list1{
+	width: 1000px;
+	margin-left: 250px;
+}
+.row4.heading h2 {
+    color: #fff;
+    font-size: 52.52px;
+    line-height: 95px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 0 40px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+}
+ul{
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+.heading.heading-icon {
+    display: block;
+}
+.padding-lg {
+	display: block;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.practice-area.padding-lg {
+    padding-bottom: 55px;
+    padding-top: 55px;
+}
+.practice-area .inner{ 
+     border:1px solid #999999; 
+	 text-align:center; 
+	 margin-bottom:28px; 
+	 padding:40px 25px;
+}
+.our-webcoderskull .cnt-block:hover {
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+    border: 0;
+}
+.practice-area .inner h3{ 
+    color:#3c3c3c; 
+	font-size:24px; 
+	font-weight:500;
+	font-family: 'Poppins', sans-serif;
+	padding: 10px 0;
+}
+.practice-area .inner p{ 
+    font-size:14px; 
+	line-height:22px; 
+	font-weight:400;
+}
+.practice-area .inner img{
+	display:inline-block;
+}
+
+
+.our-webcoderskull .cnt-block{ 
+   float:left; 
+   width:100%; 
+   background:#fff; 
+   padding:30px 20px; 
+   text-align:center; 
+   border:2px solid #d5d5d5;
+   margin: 0 0 28px;
+}
+.our-webcoderskull .cnt-block figure{
+   width:148px; 
+   height:148px; 
+   border-radius:100%; 
+   display:inline-block;
+   margin-bottom: 15px;
+}
+.our-webcoderskull .cnt-block img{ 
+   width:148px; 
+   height:148px; 
+   border-radius:100%; 
+}
+.our-webcoderskull .cnt-block h3{ 
+   color:#2a2a2a; 
+   font-size:20px; 
+   font-weight:500; 
+   padding:6px 0;
+   text-transform:uppercase;
+}
+.our-webcoderskull .cnt-block h3 a{
+  text-decoration:none;
+	color:#2a2a2a;
+}
+.our-webcoderskull .cnt-block h3 a:hover{
+	color:#337ab7;
+}
+.our-webcoderskull .cnt-block p{ 
+   color:#2a2a2a; 
+   font-size:13px; 
+   line-height:20px; 
+   font-weight:400;
+}
+.our-webcoderskull .cnt-block .follow-us{
+	margin:20px 0 0;
+}
+.our-webcoderskull .cnt-block .follow-us li{ 
+    display:inline-block; 
+	width:auto; 
+	margin:0 5px;
+}
+.our-webcoderskull .cnt-block .follow-us li .fa{ 
+   font-size:24px; 
+   color:#767676;
+}
+.our-webcoderskull .cnt-block .follow-us li .fa:hover{ 
+   color:#025a8e;
+}
+/*	Reset & General
+---------------------------------------------------------------------- */
+* { margin: 0px; padding: 0px; }
+
+
+
+
+.tile2 {
+	width: 900px;
+	background: #fff;
+	border-radius: 15px;
+	box-shadow: 0px 2px 3px -1px rgba(151, 171, 187, 0.7);
+	float: left;
+	transform-style: preserve-3d;
+	margin-left: 20px;
+	margin-top: 50px;
+  }
+
+
+
+  .header2 {
+	border-bottom: 1px solid #ebeff2;
+	background-color: #003580;
+	width: 100%;
+	border-radius: 20px;
+	padding: 19px 0;
+	text-align: center;
+	color: #59687f;
+	font-size: 600;
+	font-size: 19px;
+	position: relative;
+  }
+  
+
+.dates{
+	border:1px solid #ebeff2;
+	border-radius:5px;
+	padding:20px 0px;
+	margin:10px 20px;
+	font-size:16px;
+	color:#5aadef;
+	font-weight:600;	
+	overflow:auto;
+}
+.dates div{
+	float:left;
+	width:50%;
+	text-align:center;
+	position:relative;
+}
+.dates strong,
+.stats strong{
+	text-align: center;
+	display:block;
+	color:#adb8c2;
+	font-size:11px;
+	font-weight:700;
+}
+.dates span{
+	width:1px;
+	height:40px;
+	position:absolute;
+	right:0;
+	top:0;	
+	background:#ebeff2;
+}
+.stats{
+	text-align: center;
+	border-top:1px solid #ebeff2;
+	background:#f7f8fa;
+	overflow:auto;
+	width: 900px;
+	padding:10px 0px;
+	font-size:16px;
+	color:#59687f;
+	font-weight:600;
+	border-radius: 0 0 5px 5px;
+}
+.stats div{
+	border-right:1px solid #ebeff2;
+	width: 33.33333%;
+	float:left;
+	text-align:center
+}
+
+.stats div:nth-of-type(3){border:none;}
+
+div.footer {
+	text-align: right;
+	position: relative;
+	margin: 20px 5px;
+}
+
+div.footer a.Cbtn{
+	padding: 10px 25px;
+	background-color: #DADADA;
+	color: #666;
+	margin: 10px 2px;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-decoration: none;
+	border-radius: 3px;
+}
+
+div.footer a.Cbtn-primary{
+	background-color: #5AADF2;
+	color: #FFF;
+}
+
+div.footer a.Cbtn-primary:hover{
+	background-color: #7dbef5;
+}
+
+div.footer a.Cbtn-danger{
+	background-color: #fc5a5a;
+	color: #FFF;
+}
+
+div.footer a.Cbtn-danger:hover{
+	background-color: #fd7676;
+}

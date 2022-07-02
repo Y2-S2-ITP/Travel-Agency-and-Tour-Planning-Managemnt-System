@@ -1,0 +1,92 @@
+.login-block {
+    width: 350px;
+    margin-top: 50px;
+}
+
+.container2 {
+    height: 800px;
+    float: left;
+    -webkit-box-shadow: 0 0.1875rem 1.5rem rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0.1875rem 1.5rem rgba(0, 0, 0, 0.2);
+    border-radius: 0.375rem;
+    margin-bottom: 5%;
+    padding-right: 90px;
+    padding-top: 30px;
+}
+
+.container3 {
+    width: 150px;
+}
+
+.login-sec {
+    padding: 50px 30px;
+    position: relative;
+}
+
+.login-sec h2 {
+    margin-bottom: 30px;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.icon-control {
+    margin-top: 5px;
+    float: right;
+    font-size: 80%;
+}
+
+#custom-search-input {
+    margin: 0;
+    margin-top: 10px;
+    padding: 0;
+}
+
+#custom-search-input .search-query {
+    padding-right: 3px;
+    padding-right: 4px \9;
+    padding-left: 3px;
+    padding-left: 4px \9;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+    margin-bottom: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+#custom-search-input button {
+    border: 0;
+    background: none;
+    /** belows styles are working good */
+    padding: 2px 5px;
+    margin-top: 2px;
+    position: relative;
+    left: -28px;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+    margin-bottom: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    color: #D9230F;
+}
+
+.search-query:focus+button {
+    z-index: 3;
+}
+
+.search{
+    width: 300px;
+    margin-left: 10px;
+}
+
+
+.slideshow1{
+    width: 300px;
+}
+
+.timeline{
+   margin-left: 40px;
+  
+}
+.imgShadow{
+    box-shadow:  0 0 10px  rgba(0,0,0,0.6);
+}

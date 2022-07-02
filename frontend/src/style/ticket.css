@@ -1,0 +1,59 @@
+.row2 {
+    float: left;
+    margin-top: -610px;
+    margin-left: 600px;
+}
+
+.ticket {
+    width: 500px;
+    margin-top: -650px;
+    margin-left: 1000px;
+}
+
+.incrementbtn {
+    cursor: pointer;
+    display: flex;
+    height: 100%;
+    background-color: transparent;
+    border: 0;
+    font-size: 3rem;
+    padding: 0;
+    margin-left: 10px;
+    align-items: center;
+}
+
+.increment {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.incrementvalue {
+    margin: 3px 8px 3px;
+    padding: 4px 8px;
+    min-width: 2rem;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 1rem;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 38px;
+}
+
+.ticketcenter {
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 5px;
+}
+.container3{
+    padding-top: 10px;
+}
+.container3>input{
+    background-color: rgb(0, 53, 128);
+}
+.container3>input:hover{
+    background-color: rgb(32, 114, 252);
+}

@@ -1,0 +1,149 @@
+.btn2 {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 60px;
+    margin-left: -2400px
+}
+
+.btn2:hover {
+    background-color: RoyalBlue;
+}
+ 
+.breadcrumb {
+    display: grid;
+    margin-top: 30px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0px 5px 7px -7px rgba(0, 0, 0, 0.75);
+    width: 100%;
+}
+
+.checkPay {
+    text-align: left;
+    padding-left: 20px;
+    margin-top: 20px;
+    font-size: 28px;
+}
+
+.register {
+    background: -webkit-linear-gradient(left, #3931af, #00c6ff);
+    margin-top: 3%;
+    padding: 3%;
+    width: 100%;
+}
+
+.register-left {
+    text-align: center;
+    color: #fff;
+    margin-top: 4%;
+    float: right;
+}
+
+.register-left img {
+    margin-top: 15%;
+    margin-bottom: 5%;
+    width: 25%;
+    -webkit-animation: mover 2s infinite alternate;
+    animation: mover 1s infinite alternate;
+}
+
+@-webkit-keyframes mover {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(-20px);
+    }
+}
+
+@keyframes mover {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(-20px);
+    }
+}
+
+
+.cc-img {
+    margin: 0 auto;
+}
+.row1{
+    margin-left: 800px;
+    margin-top: -398px;
+}
+.img1{
+    width: 300px;
+}
+.row2{
+    margin-left: 450px;
+    margin-top: -450px;
+    float: right;
+    width: 800px;
+}
+.lable{
+    margin-left: -300px;
+}
+.inputfield{
+    width: 60%;
+    margin-left: 150px;
+    
+}
+.inputccv{
+    width: 60%;
+    margin-left: -30px;
+}
+
+/*cancelation*/
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+body{
+    background: #f2f2f2;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text3{
+    font-family: 'Poppins', sans-serif;
+}
+
+.social-box .box{
+    background: #FFF;
+    border-radius: 10px; 
+    padding: 40px 10px;
+    margin: 20px 0px;
+    cursor: pointer;
+    transition: all 0.5s ease-out;
+}
+
+.social-box .box:hover{
+   box-shadow: 0 0 16px #000000;
+}
+
+.social-box .box .box-text{
+    margin:20px 0px;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.social-box .box .box-btn a{
+    text-decoration: none;
+    color: #4183D7;
+    font-size: 16px;
+}
+
+.fa{
+     color:#4183D7;
+}
+.cancelation{
+    margin-left: -20px;
+}
+.details{
+    margin-top: 50px;
+    margin-left: -40px;
+    margin-top: 50px;
+}

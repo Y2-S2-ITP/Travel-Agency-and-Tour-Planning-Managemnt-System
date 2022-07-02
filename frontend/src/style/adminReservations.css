@@ -1,0 +1,16 @@
+.container7{
+    margin-top: 50px;
+}
+
+.pdfButton{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 40px;
+    background-color:cornflowerblue;
+}
+.table {
+    border-collapse: separate;
+    border-spacing: 10px;
+    
+}
